@@ -1,4 +1,5 @@
 The problem:
+
 Today's learning management systems have found ways to prevent students from copying the text on their websites.
 As a student & perfectionist who takes digital notes, I like to include tables in my notes but a screenshot of the table would look ugly and lacks customization
 
