@@ -5,6 +5,7 @@ As a student & perfectionist who takes digital notes, I like to include tables i
 
 I wrote this program to convert HTML table data into plain text that can easily be converted back into a table in Microsoft Word where it can be fully customized
 
+
 The solution:
 1. Select any text within the table
 2. Right click > inspect element
